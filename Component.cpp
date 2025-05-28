@@ -62,5 +62,5 @@ Component::Component(string n, bool b){
     Component_name = n;
     built=b;
 }
-
+// Test to just simply see how creating a new branch and pushing it is like
 
