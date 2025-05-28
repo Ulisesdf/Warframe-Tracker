@@ -1,0 +1,84 @@
+Ash Yes Yes Yes Yes
+
+Atlas No No No No
+
+Baruuk Yes Yes Yes Yes
+
+Chroma Yes Yes Yes Yes
+
+Ember No No Yes No
+
+Equinox No Yes No No
+
+Frost Yes Yes Yes Yes
+
+Garuda Yes Yes No No
+
+Gauss Yes Yes Yes Yes
+
+Grendel No Yes No No
+
+Harrow Yes Yes Yes Yes
+
+Hildryn No No No Yes
+
+Hydroid Yes Yes Yes Yes
+
+Inaros Yes Yes Yes Yes
+
+Ivara Yes Yes Yes Yes
+
+Khora Yes Yes Yes Yes
+
+Lavos Yes Yes Yes Yes
+
+Limbo Yes Yes Yes Yes
+
+Loki Yes Yes Yes Yes
+
+Mag Yes Yes Yes Yes
+
+Mesa Yes Yes Yes Yes
+
+Mirage Yes Yes Yes Yes
+
+Nekros Yes Yes Yes Yes
+
+Nezha Yes Yes Yes Yes
+
+Nidus Yes Yes Yes Yes
+
+Nova Yes Yes Yes Yes
+
+Nyx Yes Yes Yes Yes
+
+Oberon Yes Yes Yes Yes
+
+Octavia Yes Yes Yes Yes
+
+Protea Yes Yes Yes Yes
+
+Revenant Yes Yes Yes Yes
+
+Rhino Yes Yes Yes Yes
+
+Saryn Yes Yes Yes Yes
+
+Sevagoth Yes Yes Yes Yes
+
+Titania Yes Yes Yes Yes
+
+Trinity Yes Yes Yes Yes
+
+Valkyr Yes Yes Yes Yes
+
+Volt Yes Yes Yes Yes
+
+Voruna Yes Yes Yes Yes
+
+Wukong Yes Yes Yes Yes
+
+Xaku Yes Yes Yes Yes
+
+Zephyr Yes Yes Yes Yes
+
